@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mu)ev0*zt(6_gyeffz-j_!4)5a)9-yq-$tu^1jzlsw=6b%pj)c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.varcel.app']
+ALLOWED_HOSTS = ['.sample-iota-ebon.vercel.app']
 
 
 # Application definition
